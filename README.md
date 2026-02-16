@@ -1,3 +1,2 @@
-# comic-web
-# comic-web2
-# comic-web
+- 基于PHP+MySQL+Nginx开发的漫画在线阅读平台，具有简单的前后端交互功能 - 实现用户注册登录、漫画展示、后台管理等核心功能，支持会话保持与密码加密 - 设计数据库表结构，优化查询效率，实施SQL注入防护等安全措施 - 前端使用原生HTML/CSS/JavaScript实现轮播图、弹窗等交互效果
+- - An online comic reading platform developed based on PHP, MySQL, and Nginx, featuring simple front-end and back-end interactions. - Implements core functions such as user registration and login, comic display, and backend management, supporting session maintenance and password encryption. - Designed database table structures, optimized query efficiency, and implemented security measures such as SQL injection protection. - Front-end uses native HTML/CSS/JavaScript to achieve interactive effects like carousels and pop-up windows.
